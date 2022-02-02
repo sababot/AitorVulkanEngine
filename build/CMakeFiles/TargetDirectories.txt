@@ -1,0 +1,3 @@
+/Users/aitorgh/Desktop/projects/programming/games/VulkanUntitled/build/CMakeFiles/VulkanUntitled.dir
+/Users/aitorgh/Desktop/projects/programming/games/VulkanUntitled/build/CMakeFiles/edit_cache.dir
+/Users/aitorgh/Desktop/projects/programming/games/VulkanUntitled/build/CMakeFiles/rebuild_cache.dir
