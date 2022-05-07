@@ -8,3 +8,6 @@ A vulkan rendering engine which makes it easier to render simple graphical appli
 
 # Usage
 *Still not determined*
+
+# Misc
+Pronounced "eye-tor"
