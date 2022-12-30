@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/aitorgh/Desktop/projects/programming/games/vulkan-tutorial/src/main.cpp" "CMakeFiles/VulkanTutorial.dir/main.cpp.o" "gcc" "CMakeFiles/VulkanTutorial.dir/main.cpp.o.d"
+  "/home/sababot/work/programming/games/vulkan-tutorial/src/main.cpp" "CMakeFiles/VulkanTutorial.dir/main.cpp.o" "gcc" "CMakeFiles/VulkanTutorial.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
